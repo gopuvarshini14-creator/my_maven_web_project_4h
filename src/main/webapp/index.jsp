@@ -504,7 +504,7 @@
 
         <p>
 
-            © 2026 Gopu Varshini | B.Tech CSE (AI & ML)
+            Â© 2026 Gopu Varshini | B.Tech CSE (AI & ML) | KMIT
 
         </p>
 
